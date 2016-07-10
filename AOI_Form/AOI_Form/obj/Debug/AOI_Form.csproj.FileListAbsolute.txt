@@ -1,0 +1,11 @@
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\bin\Debug\AOI_Form.exe.config
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\bin\Debug\AOI_Form.exe
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\bin\Debug\AOI_Form.pdb
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\obj\Debug\AOI_Form.csprojResolveAssemblyReference.cache
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\obj\Debug\AOI_Form.Properties.Resources.resources
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\obj\Debug\AOI_Form.csproj.GenerateResource.Cache
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\obj\Debug\AOI_Form.exe
+c:\users\裕傑\documents\visual studio 2015\Projects\AOI_Form\AOI_Form\obj\Debug\AOI_Form.pdb
+C:\Users\裕傑\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\AOI_Form\AOI_Form\bin\Debug\AOI_Form.exe.config
+C:\Users\裕傑\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\AOI_Form\AOI_Form\obj\Debug\AOI_Form.exe
+C:\Users\裕傑\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\AOI_Form\AOI_Form\obj\Debug\AOI_Form.pdb
